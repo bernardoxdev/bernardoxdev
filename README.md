@@ -36,8 +36,8 @@ Tenho experiência prática na construção de **APIs, sistemas educacionais, au
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Se7enzito&show_icons=true&theme=dracula&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Se7enzito&layout=compact&theme=dracula" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bernardoxdev&show_icons=true&theme=dracula&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoxdev&layout=compact&theme=dracula" height="160" />
 </div>
 
 ---
