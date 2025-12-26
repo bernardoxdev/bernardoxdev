@@ -34,23 +34,15 @@ Tenho experiência prática na construção de **APIs, sistemas educacionais, au
 
 ---
 
-## 📊 Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bernardoxdev&show_icons=true&theme=dracula&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoxdev&layout=compact&theme=dracula" height="160" />
-</div>
-
----
-
 ## 📌 Projetos em Destaque
+- **Academic Flow**  
+  Sistema educacional de apoio a estudantes de Ciência da Computação da UFSJ, auxiliando no acompanhamento acadêmico e organização curricular.
+
 - **Sentilytics (CommentSentimentAPI)**  
   API para análise de sentimentos em comentários, utilizando técnicas de processamento de linguagem natural para classificação emocional e geração de insights.
 
 - **Automação BOCA (Auto-BOCA)**  
   Sistema automatizado para resolução de exercícios submetidos ao BOCA (UFSJ), com foco em eficiência e automação acadêmica.
-
-- **Academic Flow**  
-  Sistema educacional de apoio a estudantes de Ciência da Computação da UFSJ, auxiliando no acompanhamento acadêmico e organização curricular.
 
 - **Brazilian Utils (Java)**  
   Portabilidade da biblioteca Brazilian Utils para Java, fornecendo utilitários amplamente utilizados no contexto brasileiro.
