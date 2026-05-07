@@ -49,7 +49,7 @@ Tenho experiência prática na construção de **APIs, sistemas educacionais, au
 
 - **Plugins Minecraft (RPG, Market e Baazar)**  
   Desenvolvimento de plugins modulares para Minecraft, incluindo sistemas de RPG, economia e marketplace, inspirados em grandes servidores como Hypixel.
-- **Orienta.IA**
+- **Orienta.IA**  
   Sistema voltado ao suporte sistemático de orientações acadêmicas em diferentes níveis de formação, incluindo trabalhos de conclusão de curso, iniciação científica, mestrado e doutorado.
 
 ---
